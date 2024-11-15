@@ -1,5 +1,4 @@
 # **Sales Data Analysis and Visualization**  
-![Sales Analysis Banner](https://via.placeholder.com/1200x300?text=Sales+Data+Analysis+and+Visualization)
 
 ---
 
